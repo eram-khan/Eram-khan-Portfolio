@@ -40,11 +40,11 @@ export const EXPERIENCES = [
 
 export const PROJECTS = [
   {
-    title: "E-Commerce Website",
+    title: "Uptime Monitoring WebApp(PingOn)",
     image: project1,
     description:
-      "A fully functional e-commerce website with features like product listing, shopping cart, and user authentication.",
-    technologies: ["HTML", "CSS", "React", "Node.js", "MongoDB"],
+      "PingOn is a real-time uptime monitoring app that keeps track of your websites and APIs, instantly alerting you if they go down. Stay ahead of issues with detailed response data, smart notifications, and performance insights—all in one sleek dashboard.",
+    technologies: ["React", "Node.js", "Express.js"],
   },
   {
     title: "Helping Hand",
